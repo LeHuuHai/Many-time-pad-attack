@@ -1,6 +1,3 @@
-from Crypto.Util.strxor import strxor
-
-# C:\Users\le310\anaconda3\envs\myCS\Lib\site-packages\ : crypto -> Cryto
 
 # 10 b?n m?
 ciphertext = [
